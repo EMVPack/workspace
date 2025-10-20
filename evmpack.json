@@ -1,0 +1,13 @@
+{
+  "name": "workspaces",
+  "type": "implementation",
+  "title": "Workspaces is package for EVMPack",
+  "description": "Helps to structure the used implementations from packages, update, transfer rights",
+  "author": "Mikhail Ivantsov",
+  "license": "MIT",
+  "git": "",
+  "tags": [
+    "workspaces","evmpack"
+  ],
+  "homepage": "https://evmapack.tech"
+}

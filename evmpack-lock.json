@@ -1,0 +1,20 @@
+{
+  "lockfileVersion": 1,
+  "packages": {
+    "contracts-upgrade@openzeppelin@5.4.0": {
+      "version": "5.4.0",
+      "resolved": "QmSpN4HCpt3VSRHbP6KvRRa2kkfVfPk9EBN9fu39hF2d5f",
+      "dependencies": [
+        {
+          "name": "contracts@openzeppelin",
+          "version": "^5.4.0"
+        }
+      ]
+    },
+    "contracts@openzeppelin@5.4.0": {
+      "version": "5.4.0",
+      "resolved": "QmUk12bU4DWHAx6Jtqq1uWpuRn1qczHuZSVp8sv7JbBPjq",
+      "dependencies": []
+    }
+  }
+}

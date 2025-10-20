@@ -1,0 +1,6 @@
+[profile.default]
+
+remappings=[
+    "@evmpack=/home/darkrain/.evmpack/packages",
+    "@openzeppelin/contracts/=/home/darkrain/.evmpack/packages/contracts@openzeppelin-5.4.0/"
+]

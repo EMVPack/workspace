@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "dependencies": {
+    "contracts-upgrade@openzeppelin": "^5.4.0"
+  },
+  "main_contract": "Workspace",
+  "selector": "initialize()",
+  "implementationType": "transparent",
+  "compiler": {
+    "via_ir": true,
+    "evm_version": "prague",
+    "optimizer": {
+      "enabled": true,
+      "runs": 200
+    },
+    "no_metadata": true,
+    "solc_version": "0.8.28",
+    "output_dir": "../artifacts",
+    "cache_dir": "../cache",
+    "context_dir": "./",
+    "root": "./src",
+    "remappings": [
+      "@openzeppelin/contracts/=/home/darkrain/Code/EVMPack/lib/openzeppelin-contracts/contracts/"
+    ]    
+  }
+}
