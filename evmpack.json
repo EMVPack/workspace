@@ -1,5 +1,5 @@
 {
-  "name": "workspaces",
+  "name": "workspace@evmpack",
   "type": "implementation",
   "title": "Workspaces is package for EVMPack",
   "description": "Helps to structure the used implementations from packages, update, transfer rights",
